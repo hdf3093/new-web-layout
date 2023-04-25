@@ -1,0 +1,218 @@
+    
+
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Libre+Barcode+128+Text&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+        html, body {
+            max-width: 100%;
+        }
+    
+
+
+        #images{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            width: 100%;
+            height:100%;
+            align-items: center;
+            padding-top: 3em;
+
+    
+        }
+
+        img:hover{
+            opacity: .5;
+            transition: .5s ease;
+
+        }
+
+        #text p:hover{
+            opacity: .7;
+            transition: .5s ease;
+            color: rgb(0, 0, 255);
+            
+        }
+
+        main{
+            width: 100%;
+            margin: 0 auto;
+            display:flex;
+            flex-direction: column;
+            justify-content: space-between;
+            background-color: aliceblue;
+
+        }
+
+    
+
+        h1,h2{
+            font-family: 'Fira Code', monospace;
+            font-size: 20px;
+            text-align: center;
+
+        }
+
+        h1:hover,h2:hover{
+            opacity: .7;
+            transition: .5s ease;
+            color: rgb(0, 0, 255);
+            
+        }
+
+        #text{
+            padding-left: 3em;
+            padding-right: 3em;
+            text-align: center;
+            gap: 4em;
+            max-width: 100%;
+            height:auto;
+            font-family: 'Fira Code', monospace;
+            font-size: .6em;
+            display: grid;
+            padding-top: 40px;
+            grid-template-columns: repeat(auto-fit, minmax(min(10rem, 100%), 1fr));
+            padding-bottom: 40px;
+            align-content: center;
+        }
+
+        #container{
+            font-family: 'Fira Code', monospace;
+            font-size: 1em;
+            align-content: center;
+
+
+        }
+
+        #container a:visited{
+            color:rgb(70, 11, 246);
+       }
+
+       #container a:hover{
+            opacity: 3;
+            background-color: rgba(129, 126, 126, 0.565);
+            text-decoration: none
+       }
+
+        ul {
+            list-style-type: none;
+            display:flex;
+            justify-content: center;
+            margin:0;
+        }
+
+        ul .nav-item{
+            padding: .2em;
+            
+            font-family: 'Libre Barcode 128 Text', cursive;
+            font-size: 1.2em;
+        }
+
+        nav{
+            height: 20%; 
+            width:100%;
+            position:relative; 
+            bottom:0;
+            left:0;
+            height: 20%;
+            background-color: rgba(129, 126, 126, 0.565);
+            width: 100%;
+            margin:auto;
+        }
+
+
+       nav a:visited{
+            color:rgb(70, 11, 246);
+       }
+
+       nav a:hover{
+            opacity: 3;
+            background-color: rgba(129, 126, 126, 0.565);
+            text-decoration: none
+       }
+
+        #footer {
+            width:100%;
+            position:relative;
+            bottom:0;
+            left:0;
+            border-top: 8px solid rgb(70, 11, 246);
+            font-family: 'Fira Code', monospace;
+            font-size: 12px;
+            color: #000000
+        }
+
+        #footer a:visited {
+            text-decoration: none;
+            color:rgb(70, 11, 246);
+        }
+
+        #footer a:hover {
+            opacity: 1;
+            background-color: rgba(129, 126, 126, 0.565);
+            text-decoration: none
+        }
+
+    
+
+        #footer p {
+            text-align: center;
+        }
+
+        @media screen and (min-width: 768px) {
+            #text {
+                flex-direction: row;
+                justify-content: space-between;
+                font-size: .7em;
+                padding-left: 3em;
+                padding-right: 3em;
+                text-align: center;
+                gap: 4em;
+
+
+          
+              }
+  
+              #images{
+                  display: flex;
+                  flex-wrap: wrap;
+                  justify-content: center;
+                  gap: 20px;
+                  width: 100%;
+              }
+  
+              ul .nav-item {
+                  font-size: 1.7em;
+              }
+          }
+        @media screen and (min-width: 1024px) {
+            #text {
+                flex-direction: row;
+                justify-content: space-between;
+                font-size: .8em;
+
+                padding-left: 3em;
+                padding-right: 3em;
+                text-align: center;
+                gap: 4em;
+
+
+          
+              }
+  
+              #images{
+                padding-top: 4em;
+                  display: flex;
+                  flex-wrap: wrap;
+                  justify-content: center;
+                  gap: 20px;
+                  width: 100%;
+                  height:10%;
+              }
+  
+              ul .nav-item {
+                  font-size: 2em;
+              }
+          }
+       
+     

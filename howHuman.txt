@@ -1,0 +1,95 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Libre+Barcode+128+Text&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+</style>
+
+font-family: 'Fira Code', monospace;
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Source Code Pro', monospace;
+
+<title> how human? <title>
+H1
+how human?
+H2
+an interdisciplinary study on cyborgs, robots, and artificial intelligence
+
+<main>
+<p>
+“Robots Are Coming for Your Job Sooner Than You Think,” declared VICE in a September headline. Two months later, physicist Stephen Hawking said AI could be the “worst event in the history of our civilization.” What do we make of these proclamations: is this pragmatism, or doom-and-gloom? What do our concerns about robots say about our own humanity? What does it mean to consider post-humanity when the boundary of the “human” is unclear? How does this ambiguity translate to the sheer velocity at which AI and Machine Learning Models become more and more human-like for our own use?
+
+In How Human?, we examine the changing boundaries between artificial and real bodies through readings in studies of science and technology, feminist theories of embodiment, studies of race and ethnicity, posthumanism, futurism, and science fiction. Topics include the machine/human boundary, potential machine futures, the ethics of our technological present (and future), and an examination of our own hybrid existence. 
+
+We also participate in weekly a hands-on robotics lab and create our own robot with CircuitPython and Adafruit's Circuit Playground Express, or CPX. Ultrasonic sensors, light sensors, musical gloves, you name it, we can add it. As we create our robots, we take note of both the physical and mental process of our own creation becoming tangible and functional. At the end of the semester, our robots are to successfully go through a maze and tackle any obstacles it comes into contact with.
+
+Our readings range from Masahiro Mori's Uncanny Valley to Lucy Suchman's Plans and Situated Actions to The Chinese Room Experiment, Artificial Intelligence and Robotics non-fiction, and so on and so on. 
+
+
+<footer>
+
+Interested in interdisciplinary study? Learn more here. https://gallatin.nyu.edu/
+
+
+The Uncanny Valley
+An Analysis of the Eery Phenomenon in Video Games and Digital Media
+
+The uncanny valley, a concept first introduced by Masahiro Mori in 1970, has become increasingly relevant in modern times as technology continues to advance. The concept describes the phenomenon where an artificial entity that closely resembles a human, but falls just short of perfection, elicits an eery or unsettling feeling in humans. This feeling occurs when an artificial entity exhibits a close resemblance to a human, but with some imperfections or abnormalities.
+
+The term "uncanny valley" was coined to describe the dip in the emotional response that occurs as an artificial entity becomes more human-like. Mori described it as "a region of negative emotional response" where the artificial entity's resemblance to a human is close enough to be recognizable, but different enough to cause a sense of unease. This dip is called a "valley" because the emotional response drops off sharply before eventually rising again when the artificial entity becomes indistinguishable from a human.
+
+Mori's original description of the uncanny valley was based on observations of humanoid robots, but it has since found numerous modern applications in video games and other forms of digital media. In video games, developers strive to create increasingly realistic human characters, but often fall into the uncanny valley, leading to players experiencing an unsettling feeling. Take the character of Lara Croft in the early Tomb Raider games. As technology improved, the developers attempted to make her more realistic, but the result was a character that was too realistic but not quite human, creating a sense of discomfort in players. In contrast, the cartoonish character designs of games like Super Mario Bros. and The Legend of Zelda avoid the Uncanny Valley effect by being obviously non-human.
+
+Another example of the Uncanny Valley effect in popular culture is the CGI used to create the character of Grand Moff Tarkin in the 2016 film Rogue One: A Star Wars Story. While the technology allowed for a realistic representation of the character, the result was unsettling for many viewers due to the slight imperfections in the animation. As well as the game Detroit: Become Human, where the player takes on the role of androids that closely resemble humans. However, while the characters may look human-like, they still fall into the uncanny valley, leading to players experiencing an unsettling feeling.
+
+Similarly, Lilmiquela, an Instagram influencer, is a prime example of a digital media application that falls within the uncanny valley. Despite being entirely artificial, Lilmiquela's creators have designed her to look like a real human, complete with freckles, blemishes, and a sense of style. While her fans may be intrigued by her uniqueness, some people find her appearance to be unsettling or even creepy.
+
+
+Modern readings of the uncanny valley have sought to expand upon Mori's original concept and apply it to new technologies. For example, some researchers have suggested that the uncanny valley effect may be more pronounced in virtual reality experiences because they provide a more immersive environment that is more difficult to distinguish from reality. Others have suggested that the uncanny valley may be more pronounced in cultures where the concept of human-like robots is less common, as they are more likely to elicit an emotional response due to their novelty.
+
+The uncanny valley remains a relevant and thought-provoking concept in modern times as technology continues to push the boundaries of what is possible. Its relevance in video games and digital media serves as a reminder of the importance of balancing realism with aesthetic appeal, and the need to carefully consider the emotional impact of new technologies. As Mori himself said, "The uncanny valley is a warning sign to engineers and designers, telling them that they have come too close to the border between the human and the non-human."
+
+
+
+
+
+
+
+The Chinese Room Experiment 
+& Jean Bauldrillard, Jessica Riskin, and the "Extended Mind" Hypothesis
+
+The Chinese Room experiment, proposed by philosopher John Searle in 1980, raises fundamental questions about the nature of artificial intelligence (AI) and its ability to truly understand language. In the experiment, Searle asks us to imagine a person sitting in a room, who is given a set of rules in English and a large set of Chinese symbols. The person does not understand Chinese but uses the rules to manipulate the symbols and produce output that appears to be Chinese language responses to questions. Searle argues that even though the person is able to produce the right responses, they do not understand the language, just as a computer program following rules does not truly understand the language it processes.
+
+In recent years, new advancements in AI have reignited the debate surrounding the Chinese Room experiment. One of the most significant developments is the emergence of machine learning algorithms, which can "learn" from large datasets and improve their performance over time. However, there is still a fundamental difference between a computer program following a set of rules and a human brain that can truly understand language.
+
+French philosopher Jean Baudrillard's concept of simulacra can shed light on this distinction between simulation and actual learning. In his work, Baudrillard argues that our contemporary society is inundated with simulations, copies that have no original referent or source. The Chinese Room experiment can be seen as an example of a simulation of language understanding. The computer program appears to understand language, but it is only simulating this understanding based on a set of rules.
+
+Furthermore, philosopher Jessica Riskin's "Defecating Duck" simulation highlights the limitations of simulating intelligence. In her thought experiment, Riskin asks us to imagine a machine that simulates the behavior of a duck defecating, complete with sound effects and mechanical movements. While the simulation may appear convincing, it does not truly capture the complexity of the biological processes involved in the act of defecation.
+
+The "Extended Mind" hypothesis, proposed by philosophers Andy Clark and David Chalmers, also highlights the distinction between simulation and actual learning. The hypothesis posits that our minds are not limited to our brains but can extend to external objects and tools that we use to interact with the world. While a computer program may simulate language understanding, it does not have the embodied experience of language that a human brain does, which is shaped by our physical interactions with the world.
+
+The Chinese Room experiment and its modern advancements in AI have prompted a deeper investigation into the nature of intelligence and understanding. While simulations may appear convincing, they fall short of true understanding and the complexity of the human mind. Baudrillard's concept of simulacra, Riskin's Defecating Duck simulation, and the extended mind hypothesis all highlight the fundamental differences between simulation and actual learning. These philosophical considerations are crucial in understanding the capabilities and limitations of AI and its potential impact on society.
+
+
+
+
+
+
+
+
+
+Plans and Situated Actions
+
+Lucy Suchman's Plans and Situated Action framework is a critical theory that challenges the conventional notion of AI as being an autonomous entity, separate from human influence. Instead, it posits that the interactions between humans and machines are situated within specific contexts and shaped by social, cultural, and historical factors.
+
+One of the key insights of Suchman's framework is the idea of imposing our humanity onto machines. This means that our expectations of AI are often shaped by our own experiences, desires, and biases, rather than the true capabilities of the technology. As a result, we may overestimate the intelligence and agency of machines, and assume that they are inherently better than humans in certain domains.
+
+This tendency to overestimate AI is evident in the way that we interact with chatbots and other conversational agents. For example, some AI chatbots have been programmed to respond to questions that they do not understand with the phrase "tell me more," rather than admitting that they do not know the answer. This may give the impression that the machine is actively engaging in conversation and trying to learn, when in fact it is simply following a pre-programmed script.
+
+This phenomenon of overestimating AI capabilities has broader implications for society. As AI becomes increasingly integrated into our daily lives, it is important to critically evaluate the assumptions and biases that underlie our interactions with these systems. For instance, the use of AI in hiring processes may perpetuate systemic biases if the algorithms are trained on historical data that reflects existing inequalities. Similarly, the use of AI in healthcare may lead to incorrect diagnoses if the technology is not thoroughly tested and validated before deployment.
+
+Overall, Suchman's work highlights the importance of considering the broader social and cultural contexts in which AI is situated. By recognizing the ways in which our own biases and assumptions shape our interactions with technology, we can more effectively develop and deploy AI systems that are truly responsive to the needs and values of society.
+
+
+<footer>
+
+Interested in interdisciplinary study? Learn more here. https://gallatin.nyu.edu/
+
+
